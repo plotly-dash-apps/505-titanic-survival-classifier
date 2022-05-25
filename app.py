@@ -9,7 +9,7 @@ from tabs import tab_1, tab_2, tab_3, tab_4
 from utils import display_eval_metrics, Viridis
 
 
-df=pd.read_csv('resources/final_probs.csv')
+df=pd.read_csv('resources/final_probs_rf.csv')
 
 
 ## Instantiante Dash
